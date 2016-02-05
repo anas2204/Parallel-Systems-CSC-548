@@ -1,4 +1,7 @@
-<b>Perform Integration and Differentiation of a smooth function in parallel </b>
+<b>Perform Integration and Differentiation of a smooth function in parallel
+<b>Solution Files: p2_mpi.c
+Input File: p2_serial.c and p2_func.c
+</b>
 
 Implement the function analysis code in a parallel scheme: 
 
