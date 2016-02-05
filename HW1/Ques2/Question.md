@@ -1,3 +1,5 @@
+<b>Perform Integration and Differentiation of a smooth function in parallel </b>
+
 Implement the function analysis code in a parallel scheme: 
 
 Download the code for this problem: p2_serial.c and p2_func.c
